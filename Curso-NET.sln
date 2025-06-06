@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWrite", "ReadWrite\Read
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{A228EBF8-0B6F-4A62-B4FD-A5BCE82ABF8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuget", "Nuget\Nuget.csproj", "{713E5376-0B7D-40BD-9FF0-30B631A76864}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{A228EBF8-0B6F-4A62-B4FD-A5BCE82ABF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A228EBF8-0B6F-4A62-B4FD-A5BCE82ABF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A228EBF8-0B6F-4A62-B4FD-A5BCE82ABF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713E5376-0B7D-40BD-9FF0-30B631A76864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713E5376-0B7D-40BD-9FF0-30B631A76864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713E5376-0B7D-40BD-9FF0-30B631A76864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713E5376-0B7D-40BD-9FF0-30B631A76864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
